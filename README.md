@@ -1,6 +1,7 @@
 ## Olá, Eu sou Gabriel Silva
 
 -  💻 Sou Estudante de Ciência da Computação na UFMA
+-  Atualmente estudando desenvolvimento Front-End
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilva28&layout=compact&theme=dark&langs_count=10&hide=javascript)
 
