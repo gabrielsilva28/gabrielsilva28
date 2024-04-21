@@ -1,9 +1,9 @@
 ## Olá, Eu sou Gabriel Silva
 
 -  💻 Sou Estudante de Ciência da Computação na UFMA
--  Atualmente estudando desenvolvimento Front-End
+-  Atualmente estudando desenvolvimento Front-End e Ciência de Dados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilva28&layout=compact&theme=dark&langs_count=10&hide=javascript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilva28&layout=compact&theme=dark&langs_count=10&hide=Makefile)
 
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
